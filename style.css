@@ -1,0 +1,27 @@
+body{
+    background: #4b0be0;
+}
+
+header{
+    color: #FFF;
+    text-align: center;
+    font: normal 15pt Arial;
+}
+
+div {
+    font: bold 12pt Arial;
+    text-align: center;
+}
+section{
+    background: #FFF;
+    padding: 15px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+}
+footer{
+    font: small 10pt Verdana;
+    color: #FFF;
+    text-align: center;
+}
